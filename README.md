@@ -1,2 +1,6 @@
-# dio-desafio-github-primeiro-repositorio
-desafio de projeto sobre git/github
+# Desafio de projeto git/github
+repositorio criado para o desafio de projeto
+
+##Links Úteis
+[Replit perfil](https://replit.com/@FelipeQuirino2)
+
